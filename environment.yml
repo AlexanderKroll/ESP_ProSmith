@@ -1,0 +1,8 @@
+name: esp_prosmith
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9.19
+  - pytorch=2.0.0
+  - cudatoolkit=11.7

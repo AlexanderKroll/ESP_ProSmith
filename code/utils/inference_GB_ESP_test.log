@@ -1,0 +1,11 @@
+Namespace(binary_task=True, embed_path='/gpfs/project/daw60zit/pro_smith_input/embeddings', log_name='prediction_test', num_hidden_layers=6, port=12523, pred_dir='/gpfs/project/daw60zit/pro_smith_input/files/input_1', pretrained_TN='/gpfs/project/daw60zit/pro_smith_input/saved_Transformer/ESP_2gpus_bs48_1e-05_layers6.txt.pkl', save_pred_path='/gpfs/project/daw60zit/pro_smith_predictions', world_size=-1)
+Loading dataset to cpu:0
+Loading data...
+Data loaded!
+Loading protein subset:  0
+Loading protein repr from:  /gpfs/project/daw60zit/pro_smith_input/embeddings/Protein/Protein_embeddings_V0.pt
+Loaded protein subset:  0
+Loading smiles subset:  0
+Loaded smiles subset:  0
+Loading dataloader
+Invalid rank 0, rank should be in the interval [0, -2]

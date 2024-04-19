@@ -1,0 +1,9 @@
+rdkit-pypi==2022.9.5
+pandas==2.2.0
+xgboost==2.0.3
+transformers==4.37.2
+fair-esm==0.4.2
+biopython==1.83
+tensorflow==2.15
+torch==2.0.0
+jupyter
